@@ -1,0 +1,13 @@
+// tworzenie nowego repo
+Terminal > New Terminal  - i tu wybieramy folder z projektem
+
+git add . - dodanie wszystkich utworzonych plikow do repozytorium
+
+git commit -m 'komentarz' - dodanie komentarza do danej aktualizacji
+
+git checkout -b <nazwa brancha> - tworzy nowego brancha i od razu do niego przechodzi
+
+git push -u origin master - pushuje repo na serwer
+
+
+zmiany zmiany hahahah ...
